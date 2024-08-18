@@ -367,6 +367,7 @@ article .icon {
 
 #projects {
   position: relative;
+  margin-bottom: 5rem;
 
 }
 
@@ -408,6 +409,7 @@ article .icon {
 
 #contact {
   display: flex;
+  margin-top: 5rem;
   justify-content: center;
   flex-direction: column;
   height: 70vh;
